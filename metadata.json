@@ -1,0 +1,8 @@
+{
+  "name": "FestiveGlow: Personalized New Year Celebrations",
+  "description": "A luxury New Year's greeting platform where you can create customized holiday cards for friends and family, powered by AI-generated wishes and festive animations.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
