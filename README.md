@@ -1,4 +1,4 @@
-# ✨ FestiveGlow
+# FestiveGlow
 **The Luxury Platform for Personalized New Year Greetings.**
 
 [![Evergreen](https://img.shields.io/badge/Status-Evergreen-success?style=for-the-badge&logo=spring&logoColor=white)](https://github.com/GovWebDesign)
@@ -10,16 +10,16 @@ FestiveGlow is a high-end digital experience designed to transform how you celeb
 
 ---
 
-### 🚀 Key Features
+### Key Features
 
-*   **✨ Intelligent Sentiment Engine**: Every greeting is uniquely crafted using an external AI provider, generating heartwarming, context-aware New Year wishes in real-time.
-*   **📸 Visual Storytelling**: Upload high-quality photos of friends and family to create a personalized digital gallery.
-*   **🖼️ HD Canvas Generation**: Download high-resolution (1200x1800) digital posters suitable for social media stories or high-quality printing.
-*   **🌍 Smart Year Detection**: The application automatically detects whether to prepare for the upcoming year or celebrate the current one based on the date, making it a forever-app for every holiday season.
+*   **Intelligent Sentiment Engine**: Every greeting is uniquely crafted using an external AI provider, generating heartwarming, context-aware New Year wishes in real-time.
+*   **Visual Storytelling**: Upload high-quality photos of friends and family to create a personalized digital gallery.
+*   **HD Canvas Generation**: Download high-resolution (1200x1800) digital posters suitable for social media stories or high-quality printing.
+*   **Smart Year Detection**: The application automatically detects whether to prepare for the upcoming year or celebrate the current one based on the date, making it a forever-app for every holiday season.
 
 ---
 
-### 🛠️ How it Works
+### How it Works
 
 1.  **Add Your Circle**: Upload a photo and enter the name of your friend or family member.
 2.  **Compose Heartfelt Wishes**: The system drafts a celebratory New Year message based on your specified relationship and the current holiday cycle.
@@ -28,7 +28,7 @@ FestiveGlow is a high-end digital experience designed to transform how you celeb
 
 ---
 
-### 💻 Technical Architecture
+### Technical Architecture
 
 *   **Frontend**: React 19 + TypeScript + Tailwind CSS.
 *   **Rendering**: HTML5 Canvas (Custom CanvasService for high-res exports).
@@ -37,7 +37,7 @@ FestiveGlow is a high-end digital experience designed to transform how you celeb
 
 ---
 
-### 🏛️ Developed by GovWebDesign
+### Developed by GovWebDesign
 *Architecting high-performance digital ecosystems.*
 
 For business inquiries: see the repository owner on GitHub.
